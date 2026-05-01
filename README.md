@@ -5,4 +5,4 @@ This is a Demo for Git and Github class.
 Kiran Daundkar
 
 # Students
-Prime Student
+Prime Student Kiran
